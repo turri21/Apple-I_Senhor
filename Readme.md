@@ -1,5 +1,8 @@
+-=(Apple-I_Senhor notes)=-
 
+Tested: Working Video 720p, 1080p & sound.
 
+___
 # MiSTer port of Apple-I
 
 Use the OSD to load a txt file that contains either hex values that you would type into the console or basic. If you are going to load basic, first load the basic hex file, then load the basic file afterwards.
